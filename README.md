@@ -247,11 +247,3 @@ MIT License - feel free to use for your projects!
 
 Project ini dibuat sebagai bagian dari aplikasi **Xiaomi MiMo Orbit 100T Token Creator Incentive Program**.
 
-**Applicant:** Haji Cz | Jepe Nexus  
-**Email:** polaikanpaus12@gmail.com  
-**AI Tools:** OpenClaw, Next.js, TypeScript  
-**Target Model:** MiMo V2.5 Series  
-
----
-
-Built with ❤️ for the AI-powered trading future.
